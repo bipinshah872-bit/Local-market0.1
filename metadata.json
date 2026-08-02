@@ -1,0 +1,6 @@
+{
+  "name": "Local Market",
+  "description": "Hyperlocal neighbourhood marketplace for buying, selling, and promoting local products and services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
